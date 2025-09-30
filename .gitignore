@@ -1,11 +1,11 @@
 #가상환경
-    .vscode
+.vscode
 #환경변수
-    .env
+.env
 #파이썬
-    __pycache__/
-    *.splite3
-    *.db
-    *.__pycache__
+__pycache__/
+*.splite3
+*.db
+*.__pycache__
 
 credit.csv
