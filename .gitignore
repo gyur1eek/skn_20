@@ -1,0 +1,15 @@
+#가상환경
+.vscode
+#환경변수
+.env
+#파이썬
+__pycache__/
+*.splite3
+*.db
+*.__pycache__
+
+credit.csv
+
+*.zip
+
+*.txt
