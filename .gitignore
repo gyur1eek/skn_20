@@ -45,3 +45,34 @@ pandas-data-analysis/part4/credit.csv
 pandas-data-analysis/part7/extracted_files/open/external_open/countrywide_accident.csv
 pandas-data-analysis/part7/San-Francisco-Crime .csv
 pandas-data-analysis/part7/data/San-Francisco-Crime .csv
+# === virtual envs (절대 올리지 않음) ===
+.venv/
+venv/
+env/
+**/Lib/
+**/Scripts/
+**/Include/
+**/site-packages/
+**/pyvenv.cfg
+python/python_crwaling_database/streamlit_prj/
+
+# === 주피터/빌드 산출물 ===
+.ipynb_checkpoints/
+*.pyd
+*.dll
+*.exe
+*.so
+*.log
+
+# === 데이터/모델(용량 큰 파일 방지) ===
+*.pth
+*.pt
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.csv
+**/aclImdb_v1/
+data/
+datasets/
