@@ -13,3 +13,35 @@ credit.csv
 *.zip
 
 *.txt
+
+part4/credit.csv
+part7/San-Francisco-Crime .csv
+part7/extracted_files/open/external_open/countrywide_accident.csv
+deep-learning/1027.review.ipynb
+deep-learning/bostonRegression.pth
+deep-learning/model9.ipynb
+deep-learning/model9.ipynb
+deep-learning/model13.ipynb
+deep-learning/model13.ipynb
+pandas-data-analysis/part7/data/python
+deep-learning/model9.ipynb
+deep-learning/model9.ipynb
+deep-learning/model13.ipynb
+# data & model artifacts
+*.pth
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.csv
+data/
+datasets/
+pandas-data-analysis/part7/
+deep-learning/CIFAR*
+deep-learning/CIFAR.pth
+deep-learning/cifar-10-python.tar.gz
+deep-learning/,/cifar-10-python.tar.gz
+pandas-data-analysis/part4/credit.csv
+pandas-data-analysis/part7/extracted_files/open/external_open/countrywide_accident.csv
+pandas-data-analysis/part7/San-Francisco-Crime .csv
+pandas-data-analysis/part7/data/San-Francisco-Crime .csv
